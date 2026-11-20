@@ -1,0 +1,16 @@
+
+# Installed npm packages
+node_modules/
+
+# Compiled TypeScript output
+dist/
+
+# TypeScript incremental build files
+*.tsbuildinfo
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS files
+.DS_Store

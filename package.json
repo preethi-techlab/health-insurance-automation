@@ -1,0 +1,25 @@
+{
+  "name": "health-insurance-automation",
+  "version": "1.0.0",
+  "description": "Playwright and TypeScript automation project for health insurance marketplace workflows, including UI, API, and AI-assisted testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethi-techlab/health-insurance-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/preethi-techlab/health-insurance-automation/issues"
+  },
+  "homepage": "https://github.com/preethi-techlab/health-insurance-automation#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
